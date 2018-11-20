@@ -1,0 +1,32 @@
+
+#header {
+
+
+    border: none; /* Убираем границу */
+    background-color: #5300e8; /* Цвет линии 03DAC6 */ 
+    color: #03DAC6; /* Цвет линии для IE6-7 */
+
+}
+#header2
+{
+     border: none; /* Убираем границу */
+
+    background-color: #18FFFF; /* Цвет линии 03DAC6 */ 
+ 
+}
+
+#contact_head
+{
+ 
+  text-align: right;
+color: white;
+
+
+
+}
+
+#contact_head a
+{
+
+color: white;
+}

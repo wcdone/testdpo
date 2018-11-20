@@ -1,13 +1,11 @@
 
 
-    function validate(form) {
-      var elems = form.elements;
+    function validate() {
+      
 
-      if (!elems.from.value) {
-       // showError(elems.from.parentNode, ' Укажите от кого.');
-       allert("sdfsdv");
-      }
-
-
+$.get( "file:///C:/src/wcdone.git/result.php", function( data ) {
+  var text = data;
+  $("#result").html("<p>Новье!"+text+"</p>")
+});
 
     }
