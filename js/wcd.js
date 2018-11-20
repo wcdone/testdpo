@@ -4,9 +4,9 @@
       
 
 
-$.get( "result.php", function( data ) {
+$.get( "https://wcdone.github.io/result.php", function( data ) {
   var text = data;
-  $("#result").html("<p>Новье!"+text+"</p>")
+  $("#result").html("<p>Удостоверение №"+text+"валидно</p>")
 });
 
     }

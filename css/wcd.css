@@ -3,25 +3,23 @@
 
 
     border: none; /* Убираем границу */
-    background-color: #5300e8; /* Цвет линии 03DAC6 */ 
+    background-color: #714cfe; /* Цвет линии 03DAC6 */ 
     color: #03DAC6; /* Цвет линии для IE6-7 */
 
 }
 #header2
 {
      border: none; /* Убираем границу */
-
-    background-color: #18FFFF; /* Цвет линии 03DAC6 */ 
+    height: 57%;
+    background-color: #67daff; /* Цвет линии 03DAC6 */ 
+    color: #403635;
  
 }
 
 #contact_head
 {
  
-  text-align: right;
 color: white;
-
-
 
 }
 
@@ -29,4 +27,48 @@ color: white;
 {
 
 color: white;
+}
+#mform
+{
+    padding-top: 5%;
+ 
+}
+
+
+
+#vertical-allign
+{color: white;
+   
+}
+#txtimg
+{
+ vertical-align: middle ;
+    top: 100px;
+}
+
+#example-text-input
+{
+    max-width: 500px;
+}
+#foo
+{
+   
+    padding-top: 5%;
+}
+#findlogo
+{
+
+  width: 25%; height: 25%;
+}
+
+#foo2
+{ padding-bottom: 1%;
+    border: none; /* Убираем границу */
+    background-color: #714cfe; /* Цвет линии 03DAC6 */ 
+    color: white; /* Цвет линии для IE6-7 */
+
+}
+#foo2 a
+{
+     color: white;
 }
